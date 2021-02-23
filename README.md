@@ -23,12 +23,12 @@ Normal Text
 
 ![link](https://github.com/sravanthi-23/origin1)
 
-**Data**
+
 |Name|college|branch|
 |----|-------|------|
 | P  |  Vrsec| It   |
 
-~~STRIKED TEXT
+
 
 - [x] checkbox
 - [ ] a
